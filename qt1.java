@@ -15,6 +15,6 @@ public class App {
         else {
             System.out.print("Not the same name as programmer!");
         }
-    
+        input.close();
     }
 }
